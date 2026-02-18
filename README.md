@@ -4,6 +4,8 @@
 
 Horingo Linux is a custom-engineered, **64-bit Linux CLI** (Command Line Interface) built from the ground up using the **Buildroot** framework. It is designed for extreme portability and as a lightweight environment for Python-based automation.
 
+> NOTE TO ALL USERS: I have three accounts: 22soulfan, gabexalt0928, and hirohamada2014. I (22soulfan) forked their repos since they are mine. Here, I forked Horingo Linux, a distro based on Buildroot.
+> DISCLAIMER: Horingo Linux is in development. Stay tuned.
 ---
 
 ## ✨ Features
