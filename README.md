@@ -1,6 +1,8 @@
-# 🌀 Horingo Linux: Alpha v0.1.0 (The Spark)
+# 🌀 Horingo Linux
 
 > *"Find your spark. Find your way."*
+
+> Horingo Linux 0.1.0 is designed only to be run on Github Codespaces due to errors when running in other platforms.
 
 Horingo Linux is a custom-engineered, **64-bit Linux CLI** (Command Line Interface) built from the ground up using the **Buildroot** framework. It is designed for extreme portability and as a lightweight environment for Python-based automation.
 
